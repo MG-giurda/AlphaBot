@@ -2,7 +2,7 @@
 
 ## Descrizione del progetto
 
-# gruppo ## condur giordano
+# gruppo  condur giordano
 
 **AlphaBot** è un progetto di robotica che ha come obiettivo la realizzazione e la programmazione di un robot in grado di interagire autonomamente con l'ambiente circostante attraverso sensori, attuatori e sistemi di controllo.
 
